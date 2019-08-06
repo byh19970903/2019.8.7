@@ -1,13 +1,13 @@
 <template>
     <div>
-        交话费
+      asdasdas 
     </div>
 </template>
 
 
 <script>
 export default {
-    name:"Mine"
+    name:"adaptor"
 }
 </script>
 

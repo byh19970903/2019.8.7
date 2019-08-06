@@ -1,13 +1,13 @@
 <template>
-    <div>
-        交话费
+    <div class="w">
+        导演
     </div>
 </template>
 
 
 <script>
 export default {
-    name:"Mine"
+    name:"director"
 }
 </script>
 

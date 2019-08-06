@@ -1,21 +1,21 @@
 <template>
-    <div class="w">
-        
+    <div>
+        阿打算
     </div>
 </template>
 
 
 <script>
 export default {
-    name:"Cinema"
+    name:"performer"
 }
 </script>
 
 
 <style>
-    .w{
+      /* .w{
         height: 100px;
         width: 100px;
         background-color: red;
-    }
+    } */
 </style>

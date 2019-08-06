@@ -1,13 +1,13 @@
 <template>
     <div>
-        交话费
+        其他
     </div>
 </template>
 
 
 <script>
 export default {
-    name:"Mine"
+    name:"otherss"
 }
 </script>
 
