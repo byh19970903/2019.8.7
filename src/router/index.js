@@ -10,6 +10,7 @@ import performer from "./performer"
 import otherss from "./otherss"
 import adaptor from "./adaptor"
 import yingyingying from "./yingyingying"
+import xixixi from "./xixixi"
 Vue.use(VueRouter)
 
 
@@ -23,6 +24,7 @@ export default new VueRouter({
         performer,
         otherss,
         adaptor,
-        yingyingying
+        yingyingying,
+        xixixi
     ]
 })

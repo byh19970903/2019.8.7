@@ -1,5 +1,5 @@
 <template>
-<div class="da">
+<!-- <div class="da"> -->
     <div id="footer">
         <ul>
             <router-link 
@@ -12,7 +12,7 @@
             <span>{{item.text}}</span>
             </router-link>
         </ul>
-    </div>
+    <!-- </div> -->
     </div>
 </template>
 
@@ -61,6 +61,12 @@ export default {
                     // icon:"&#xe605;",
                     text:"其他",
                      path:"/otherss"
+                },
+                
+                 {
+                    // icon:"&#xe605;",
+                    text:"xixixi",
+                     path:"/xixixi"
                 }
             ]
         }
@@ -69,18 +75,28 @@ export default {
 </script>
 
 <style>
-#da{
+/* #da{
     top:0;
     background-color: #eee;
+} */
+#footer{
+    top:0;
+  
+    left: 0;
+    justify-content: center;
+    align-items: center;
+    /* overflow-x: auto; */
 }
 ul{
   overflow-x: auto;
-     height: 1.6rem;
+  
+     height: 1rem;
    
     padding-left: .48rem;
     margin-right: .32rem;
     white-space: nowrap;
     overflow-x: scroll;
+    
     -webkit-overflow-scrolling: touch;
   display: flex;
  

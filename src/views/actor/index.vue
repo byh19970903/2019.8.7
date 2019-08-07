@@ -1,6 +1,7 @@
 <template>
   <div>
     <div class="container">
+      <img src="" alt="">
       <div class="artist-header">
         <div class="artist-header .disflex">
           <span data-v-6ac40e55 class="artist-header-title">大咖在大麦</span>

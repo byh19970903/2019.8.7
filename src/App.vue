@@ -16,14 +16,14 @@ export default {
       TabBar,
       header,
       
-    },
-    created(){
-      http("get","/api/movieOnInfoList?cityId=10").then((data)=>{
-        console.log(data);
-      })
+    }
+    // created(){
+    //   http("get","/api/movieOnInfoList?cityId=10").then((data)=>{
+    //     console.log(data);
+    //   })
     }
    
-}
+
 </script>
 <style lang="scss">
 

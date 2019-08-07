@@ -1,6 +1,6 @@
 <template>
     <div>
-      asdasdas 
+     编剧导演
     </div>
 </template>
 
